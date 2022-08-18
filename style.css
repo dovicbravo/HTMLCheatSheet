@@ -1,0 +1,35 @@
+body {
+	font-family: poppins, sans-serif;
+	background-color: gainsboro;
+}
+
+h1 {
+	text-align: center;
+	display: block;
+	font-size: 2em;
+	margin-block-start: 0.67em;
+	margin-block-end: 0.67em;
+	margin-inline-start: 0px;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+	display: block;
+	font-size: 1.5em;
+	color: darkolivegreen;
+}
+
+table {
+	border: 2px solid darkolivegreen;
+	width:  650px;
+	margin: 0 auto;
+}
+
+thead {
+	background-color: darkseagreen;
+}
+
+td {
+	border-top: 1px solid darkolivegreen;
+}
